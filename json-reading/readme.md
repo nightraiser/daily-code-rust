@@ -1,0 +1,1 @@
+This code demonstrates the use case of parsing a json file and mapping the contents to a rust type

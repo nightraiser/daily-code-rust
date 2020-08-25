@@ -1,0 +1,14 @@
+[
+    {
+    "username": "IronMan",
+    "firstName": "Robert",
+    "lastName": "Downy",
+    "email": "iamironman@mcu.com"
+    },
+    {
+        "username": "Thor",
+        "firstName": "Chris",
+        "lastName": "Hemsworth",
+        "email": "thundergod@asgard.com"
+    }
+]
